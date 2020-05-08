@@ -7,7 +7,7 @@ import semver from 'semver'
  * 子类需要定义以下成员：
  * static  osName : string    系统名字
  * static synTest : ()=>boolean      同步测试
- * static asynTest : (resolve, reject)=>Promise   异步测试
+ * static asynTest : (resolve, reject)=>void   异步测试
  */
 export default class Client {
 
