@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "@gby/client",
   "version": "1.0.0",
   "description": "client 是用于表示运行web应用的客户端（终端） 或 环境 的类型的基类",
   "main": "dist/client.cjs.js",
